@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_commit: 0.14.2
+_src_path: gh:bhklab/bhklab-project-template
+author_email: bhklab.katyscott@gmail.com
+author_full_name: Katy Scott
+github_username: strixy16
+has_additional_authors: false
+project_description: Applying JarvAIs to breast cancer data for radiogenomic analysis.
+project_name: JarvAIs for Breast Cancer Analysis
+project_slug: jarvais-breast
+publish_to_github: true
+python_version: '3.12'
+repo_location: bhklab
