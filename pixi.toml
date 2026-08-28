@@ -30,10 +30,12 @@ ipykernel = "*"
 jupyterlab = "*"
 pip = "*"
 psutil = "7.0.0.*"
+ipywidgets = ">=8.1.8,<9"
 
 [pypi-dependencies]
 damply = ">=0.10.0, <0.11"
 jarvais = ">=0.20.1, <0.21"
+med-imagetools = ">=2.13.1, <3"
 
 [tasks]
 example_script = {cmd="python $SCRIPTS/example_script.py", description="Run an example script"}
