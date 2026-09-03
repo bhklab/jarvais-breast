@@ -34,6 +34,7 @@ psutil = "7.0.0.*"
 [pypi-dependencies]
 damply = ">=0.10.0, <0.11"
 jarvais = ">=0.20.1, <0.21"
+readii = ">=1.38.0, <2"
 
 [tasks]
 example_script = {cmd="python $SCRIPTS/example_script.py", description="Run an example script"}
